@@ -1,8 +1,8 @@
 # TechZone
 
-# Especificação de Requisitos de Software (ERS)
+# Especificação de Requisitos
 
-## App de E-commerce de Eletrônicos
+## Aplicativo de Ecommerce
 
 ---
 
